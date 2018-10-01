@@ -4,5 +4,7 @@ This is the GIT DEMO.yeyyyyyyy!!
 
 
 
+<<<<<<< HEAD
 --> Change1
---> Change2
+Change2 --> 2
+
